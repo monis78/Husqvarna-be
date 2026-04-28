@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+authlib
+google-auth
+httpx
+python-multipart
+redis
+python-dotenv
+langchain
+langchain-openai
+openai
